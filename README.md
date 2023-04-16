@@ -17,13 +17,13 @@ Das Tool BonPrinter dient ausschließlich zur Berechnung des Gesamtpreises einze
 ## Funktionalitäten 🥇
 
 * Artikelpreise berechnen (inkl. Wechselgeldrechner)
-* Drucken von Wertmarken -> Thermodrucker erforderlich
-* Benutzerauthentifizierung über Chipkarte -> Kartenleser erforderlich
+* Drucken von Wertmarken → Thermodrucker erforderlich
+* Benutzerauthentifizierung über Chipkarte → Kartenleser erforderlich
 * Protokollierung der Druckvorgänge pro Benutzer
 
 ## Download ☁️ ⬇️
 
-Der Code der freigegebenen Version ist auf GitHub veröffentlicht und kann dort heruntergeladen werden.
+Die freigegebenen Versionen sind auf GitHub veröffentlicht und können dort [heruntergeladen](https://github.com/timounger/BonPrinterHome/releases/latest) werden.
 
 ## Bedienung 👆️
 
