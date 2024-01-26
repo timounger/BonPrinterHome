@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" title=" " alt="" coords="5,31,79,57"/>
+<area shape="rect" id="Node000001" href="$class_source_1_1_worker_1_1open__notepad_1_1_open_notepad_worker.html" title="Open Notepad Worker." alt="" coords="127,5,269,32"/>
+<area shape="poly" id="edge28_Node000000_Node000001" title=" " alt="" coords="94,33,126,28,127,33,95,38"/>
+<area shape="rect" id="Node000002" href="$class_source_1_1_worker_1_1printer_1_1_printer.html" title="Class create bons and printout." alt="" coords="168,56,228,83"/>
+<area shape="poly" id="edge29_Node000000_Node000002" title=" " alt="" coords="95,50,168,62,168,67,94,55"/>
+</map>

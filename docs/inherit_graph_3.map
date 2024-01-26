@@ -1,0 +1,29 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" title=" " alt="" coords="5,208,61,235"/>
+<area shape="rect" id="Node000001" href="$class_source_1_1_controller_1_1main__window_1_1_e_config_selection.html" title="Mode of configuration change." alt="" coords="115,107,235,133"/>
+<area shape="poly" id="edge1_Node000000_Node000001" title=" " alt="" coords="58,195,59,194,81,167,107,143,129,132,131,136,110,148,85,171,63,198,61,199"/>
+<area shape="rect" id="Node000003" href="$class_source_1_1_model_1_1authentication_1_1_e_window_view.html" title="View of window." alt="" coords="123,157,227,184"/>
+<area shape="poly" id="edge2_Node000000_Node000003" title=" " alt="" coords="75,204,134,182,136,187,76,209"/>
+<area shape="rect" id="Node000004" href="$class_source_1_1_util_1_1bonprinter__data_1_1_e_languages.html" title="Available application languages." alt="" coords="128,208,222,235"/>
+<area shape="poly" id="edge3_Node000000_Node000004" title=" " alt="" coords="76,219,128,219,128,224,76,224"/>
+<area shape="rect" id="Node000009" href="$class_source_1_1_util_1_1bonprinter__data_1_1_e_paper.html" title="Supported paper widths of printer." alt="" coords="143,360,207,387"/>
+<area shape="poly" id="edge4_Node000000_Node000009" title=" " alt="" coords="47,248,71,298,89,324,110,346,126,356,143,363,141,368,123,361,107,350,85,327,67,301,42,250"/>
+<area shape="rect" id="Node000005" href="$class_source_1_1_util_1_1bonprinter__data_1_1_e_theme.html" title="Available application themes." alt="" coords="140,259,210,285"/>
+<area shape="poly" id="edge5_Node000000_Node000005" title=" " alt="" coords="76,234,141,257,139,262,74,239"/>
+<area shape="rect" id="Node000006" href="$class_source_1_1_util_1_1bonprinter__data_1_1_e_user.html" title="Present users." alt="" coords="146,309,204,336"/>
+<area shape="poly" id="edge6_Node000000_Node000006" title=" " alt="" coords="56,244,80,271,110,295,147,312,145,317,107,300,77,275,52,248"/>
+<area shape="rect" id="Node000007" href="$class_source_1_1_worker_1_1open__notepad_1_1_e_notepad_selection.html" title="File selection to open notepad." alt="" coords="109,5,241,32"/>
+<area shape="poly" id="edge7_Node000000_Node000007" title=" " alt="" coords="57,193,72,150,77,113,84,78,93,60,107,42,122,30,125,35,111,46,97,63,89,80,82,114,78,151,62,195"/>
+<area shape="rect" id="Node000008" href="$class_source_1_1_worker_1_1printer_1_1_e_printer.html" title="Supported printers." alt="" coords="141,56,209,83"/>
+<area shape="poly" id="edge8_Node000000_Node000008" title=" " alt="" coords="58,195,58,195,73,167,79,142,88,118,107,93,122,82,139,75,141,79,125,87,111,97,92,120,84,144,78,169,63,197,63,198"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="14,360,52,387"/>
+<area shape="poly" id="edge9_Node000010_Node000009" title=" " alt="" coords="68,371,143,371,143,376,68,376"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="14,157,52,184"/>
+<area shape="poly" id="edge10_Node000002_Node000001" title=" " alt="" coords="66,156,134,131,136,136,68,161"/>
+<area shape="poly" id="edge11_Node000002_Node000003" title=" " alt="" coords="67,168,122,168,122,173,67,173"/>
+<area shape="poly" id="edge12_Node000002_Node000004" title=" " alt="" coords="68,180,136,205,134,210,66,185"/>
+<area shape="poly" id="edge13_Node000002_Node000005" title=" " alt="" coords="61,193,63,194,85,221,110,244,141,260,139,264,107,249,81,225,59,198,58,197"/>
+<area shape="poly" id="edge14_Node000002_Node000006" title=" " alt="" coords="63,194,63,195,78,223,84,248,92,272,110,295,128,307,147,314,145,319,125,312,107,299,88,274,79,250,73,225,58,197,58,197"/>
+<area shape="poly" id="edge15_Node000002_Node000007" title=" " alt="" coords="42,142,67,91,85,65,107,42,125,30,128,35,110,46,89,68,71,94,47,144"/>
+<area shape="poly" id="edge16_Node000002_Node000008" title=" " alt="" coords="52,144,77,117,107,92,139,77,141,82,110,97,80,121,56,148"/>
+</map>

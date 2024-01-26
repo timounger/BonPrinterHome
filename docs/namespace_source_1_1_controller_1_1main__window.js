@@ -1,0 +1,28 @@
+var namespace_source_1_1_controller_1_1main__window =
+[
+    [ "EConfigSelection", "class_source_1_1_controller_1_1main__window_1_1_e_config_selection.html", null ],
+    [ "MainWindow", "class_source_1_1_controller_1_1main__window_1_1_main_window.html", "class_source_1_1_controller_1_1main__window_1_1_main_window" ],
+    [ "connect_menu_printer", "namespace_source_1_1_controller_1_1main__window.html#a0ac5d517f75fca06264ae11ffd3bc5f1", null ],
+    [ "connect_menu_reader", "namespace_source_1_1_controller_1_1main__window.html#a882066ecea9ec57e1791e804113c0735", null ],
+    [ "B_NOTEPAD_REPORT", "namespace_source_1_1_controller_1_1main__window.html#a8275ab7e63b9e960cc8212eca2659261", null ],
+    [ "DEFAULT_STYLE", "namespace_source_1_1_controller_1_1main__window.html#a3550e461bfd8efd5f949696786222a5e", null ],
+    [ "I_BTN_LONG_PRESS_TIME", "namespace_source_1_1_controller_1_1main__window.html#af23438afe06dcfddf6d70d78fe313771", null ],
+    [ "I_MAX_ITEMS_TO_PRINT", "namespace_source_1_1_controller_1_1main__window.html#aa6d270bcc470f77894b9e0c8a57418e0", null ],
+    [ "INI_FILE_TYPES", "namespace_source_1_1_controller_1_1main__window.html#a9ef632263a204ffbe11b4e36cb1f1079", null ],
+    [ "L_LOGIN_KEYS", "namespace_source_1_1_controller_1_1main__window.html#adbe835328e16deee821fcf72fad5e016", null ],
+    [ "L_SPECIAL_BTNS", "namespace_source_1_1_controller_1_1main__window.html#ade29da561a3381996cbabe188115e89e", null ],
+    [ "LOCKED_STYLE", "namespace_source_1_1_controller_1_1main__window.html#a115f868755707208d56cb9ef4565fdf9", null ],
+    [ "log", "namespace_source_1_1_controller_1_1main__window.html#ab09a63eb35b270b5cdbead1983ebdccb", null ],
+    [ "LOG_FILE_TYPES", "namespace_source_1_1_controller_1_1main__window.html#a365e5e3271a87cb73db3bf4c4cb5ccb4", null ],
+    [ "PDF_FILE_TYPES", "namespace_source_1_1_controller_1_1main__window.html#ac76cd047b6dbc83466d1feeef5abe174", null ],
+    [ "REPORT_FILE_TYPES", "namespace_source_1_1_controller_1_1main__window.html#aaa9ff0387439d52444a2c03d457490d4", null ],
+    [ "S_DOT", "namespace_source_1_1_controller_1_1main__window.html#a4d2f0fe9ffda5e7bc7d64ea0982c9c77", null ],
+    [ "S_DOUBLE_NULL", "namespace_source_1_1_controller_1_1main__window.html#a8c29c1a96eba496ab7d8aa6b30e6a402", null ],
+    [ "S_NULL", "namespace_source_1_1_controller_1_1main__window.html#a6d9acd102c84a11b86ae7572cde18e1a", null ],
+    [ "S_REPORT_TEMP_FILE", "namespace_source_1_1_controller_1_1main__window.html#a314beb3fb490a37a22add227eedb9281", null ],
+    [ "STATUS_TEXT_TIME", "namespace_source_1_1_controller_1_1main__window.html#a8259f2f434b68297f58fb93bc6294230", null ],
+    [ "STATUS_WARNING_TEXT_TIME", "namespace_source_1_1_controller_1_1main__window.html#ab6c3908cd6d11a3d382257bfc936316f", null ],
+    [ "WARNING_STYLE", "namespace_source_1_1_controller_1_1main__window.html#aac565d62112e8554b75305eea5053bb8", null ],
+    [ "WARNING_STYLE_DARK", "namespace_source_1_1_controller_1_1main__window.html#a53656244c20d4156d5b05046f7408b39", null ],
+    [ "WEB_CONFIG_FILE_TYPES", "namespace_source_1_1_controller_1_1main__window.html#ab69d4e7b8045b34272141a809d314b95", null ]
+];

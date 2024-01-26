@@ -1,0 +1,7 @@
+<map id="EUser" name="EUser">
+<area shape="rect" id="Node000001" title="Present users." alt="" coords="17,123,83,299"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,33,75"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="31,89,37,122,32,123,26,90"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="57,5,104,75"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="74,90,68,123,63,122,69,89"/>
+</map>

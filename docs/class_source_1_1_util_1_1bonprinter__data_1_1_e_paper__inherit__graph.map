@@ -1,0 +1,7 @@
+<map id="EPaper" name="EPaper">
+<area shape="rect" id="Node000001" title="Supported paper widths of printer." alt="" coords="5,123,120,213"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="19,5,45,75"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="46,88,55,122,49,124,41,90"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="70,5,117,75"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="84,90,76,124,71,122,79,88"/>
+</map>
