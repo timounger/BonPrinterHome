@@ -8,7 +8,6 @@ var dir_4d2cd150aff3df625ebb7431566b7a26 =
     [ "language.py", "language_8py.html", "language_8py" ],
     [ "model.py", "model_8py.html", "model_8py" ],
     [ "monitor.py", "monitor_8py.html", "monitor_8py" ],
-    [ "pdf_import.py", "pdf__import_8py.html", "pdf__import_8py" ],
     [ "report.py", "report_8py.html", "report_8py" ],
     [ "sound.py", "sound_8py.html", "sound_8py" ],
     [ "update_service.py", "update__service_8py.html", "update__service_8py" ]

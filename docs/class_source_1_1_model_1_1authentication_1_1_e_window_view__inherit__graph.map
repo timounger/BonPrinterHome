@@ -1,7 +1,0 @@
-<map id="EWindowView" name="EWindowView">
-<area shape="rect" id="Node000001" title="View of window." alt="" coords="5,123,101,235"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="9,5,37,75"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="36,89,44,122,38,123,31,90"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="61,5,107,75"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="76,90,68,123,63,122,71,89"/>
-</map>

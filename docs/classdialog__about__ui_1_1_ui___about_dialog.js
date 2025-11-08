@@ -6,7 +6,7 @@ var classdialog__about__ui_1_1_ui___about_dialog =
     [ "imagePlaceholder", "classdialog__about__ui_1_1_ui___about_dialog.html#a52a9e122eefc390e638b3830b41b1a3f", null ],
     [ "lbl_copyright", "classdialog__about__ui_1_1_ui___about_dialog.html#a74b99c7d7200f58fa28f4d67ea806807", null ],
     [ "lbl_home", "classdialog__about__ui_1_1_ui___about_dialog.html#a3d0681451c23e7546aab3669a3229f88", null ],
-    [ "lbl_licence", "classdialog__about__ui_1_1_ui___about_dialog.html#a127969d0131fd5686b5279a21be3276f", null ],
+    [ "lbl_license", "classdialog__about__ui_1_1_ui___about_dialog.html#aa950fa2c53ae7f0f464f76a060909854", null ],
     [ "lbl_productDescription", "classdialog__about__ui_1_1_ui___about_dialog.html#af1a90fee7ef04352156ff90292e81c86", null ],
     [ "lbl_productName", "classdialog__about__ui_1_1_ui___about_dialog.html#a112532e181a878d689e3bc82ccc26f30", null ],
     [ "lbl_version", "classdialog__about__ui_1_1_ui___about_dialog.html#a7b41747ad0361eba24170539abb2d6cf", null ],

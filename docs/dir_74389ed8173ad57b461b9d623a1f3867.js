@@ -6,6 +6,6 @@ var dir_74389ed8173ad57b461b9d623a1f3867 =
     [ "Views", "dir_9de1eeb7664ef8e5365c12dcc50ed780.html", "dir_9de1eeb7664ef8e5365c12dcc50ed780" ],
     [ "Worker", "dir_4b3a68893f60851a9d30b07b8bb9f19e.html", "dir_4b3a68893f60851a9d30b07b8bb9f19e" ],
     [ "__init__.py", "____init_____8py.html", null ],
-    [ "bonprinter.py", "bonprinter_8py.html", "bonprinter_8py" ],
+    [ "app.py", "app_8py.html", "app_8py" ],
     [ "version.py", "version_8py.html", "version_8py" ]
 ];

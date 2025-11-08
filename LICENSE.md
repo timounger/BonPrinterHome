@@ -7,7 +7,7 @@ A copy of the GNU GPL is appended to this file.
 
 IMPORTANT BONPRINTER LICENSE TERMS
 
-_Copyright © 2022-2024 Timo Unger_
+_Copyright © 2022-2025 Timo Unger_
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by

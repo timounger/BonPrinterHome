@@ -4,11 +4,9 @@
 
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/timounger/BonPrinterHome)](https://github.com/timounger/BonPrinterHome/releases/latest)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-red.svg)](https://github.com/timounger/BonPrinterHome/blob/master/LICENSE.md)
-[![Python version](https://img.shields.io/badge/python-3.11.5-blue)](https://www.python.org/downloads/release/python-3115/)
+[![Python version](https://img.shields.io/badge/python-3.11.9-blue)](https://www.python.org/downloads/release/python-3119/)
 [![Code style: autopep8](https://img.shields.io/badge/code%20style-autopep8-green.svg)](https://github.com/hhatto/autopep8)
 ![GitHub Repo stars](https://img.shields.io/github/stars/timounger/BonPrinterHome)
-
-# BonPrinter
 
 ## Über ℹ️
 
@@ -33,11 +31,9 @@ Im Tool kann über das Menüband (`Help` → `Show Help`) die Hilfe zur Bedienun
 
 ## Feedback / Bugmeldung 🐞
 
-Im Fehlerfall senden Sie bitte die Meldung mit den Fehlerdetails (falls der Dialog "Unexpected error occurred" erscheint) und die Logdatei (`bonprinter_log.log`) an den Entwickler.
+Im Fehlerfall senden Sie bitte die Meldung mit den Fehlerdetails (falls der Dialog "Unexpected error occurred" erscheint) und die Logdatei (`app_log.log`) an den Entwickler.
 
 Falls der Fehler reproduzierbar ist, bitte vorher über das Menüband (`Settings` → `Log Verbosity`) das Log Level auf `DEBUG` stellen.
-
-Mail: [bonprinter@gmx.de](mailto:bonprinter@gmx.de)
 
 ## OS Support
 

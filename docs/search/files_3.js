@@ -1,7 +1,9 @@
 var searchData=
 [
-  ['calculator_2epy_0',['calculator.py',['../calculator_8py.html',1,'']]],
-  ['changelog_2emd_1',['CHANGELOG.md',['../_c_h_a_n_g_e_l_o_g_8md.html',1,'']]],
-  ['config_2epy_2',['config.py',['../config_8py.html',1,'']]],
-  ['controller_2f_5f_5finit_5f_5f_2epy_3',['__init__.py',['../_controller_2____init_____8py.html',1,'']]]
+  ['day_5flight_2epy_0',['day_light.py',['../day__light_8py.html',1,'']]],
+  ['dialog_5fabout_5fui_2epy_1',['dialog_about_ui.py',['../dialog__about__ui_8py.html',1,'']]],
+  ['dialog_5farticle_5fsize_5fui_2epy_2',['dialog_article_size_ui.py',['../dialog__article__size__ui_8py.html',1,'']]],
+  ['dialog_5fhelp_5fui_2epy_3',['dialog_help_ui.py',['../dialog__help__ui_8py.html',1,'']]],
+  ['dialog_5freport_5fui_2epy_4',['dialog_report_ui.py',['../dialog__report__ui_8py.html',1,'']]],
+  ['dialog_5fsplash_5fui_2epy_5',['dialog_splash_ui.py',['../dialog__splash__ui_8py.html',1,'']]]
 ];

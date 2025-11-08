@@ -1,32 +1,4 @@
 var searchData=
 [
-  ['save_5fec_5fpayment_0',['save_ec_payment',['../class_source_1_1_controller_1_1main__window_1_1_main_window.html#aa878066d3b96fc322ddb5fbd8640adb7',1,'Source::Controller::main_window::MainWindow']]],
-  ['save_5ffile_1',['save_file',['../namespace_source_1_1_util_1_1gui__toolkit.html#a00468e9acb526bd609620b3408b302e6',1,'Source::Util::gui_toolkit']]],
-  ['save_5fwebserver_5fsettings_2',['save_webserver_settings',['../namespace_source_1_1_util_1_1bonprinter__data.html#adc75f502d1b89a9fa3f20ae287bd2445',1,'Source::Util::bonprinter_data']]],
-  ['save_5fwindow_5fstate_3',['save_window_state',['../namespace_source_1_1_util_1_1bonprinter__data.html#af3a283ac46d0ffe85a150fee92aa5e33',1,'Source::Util::bonprinter_data']]],
-  ['set_5fchange_5ftheme_5fstatus_4',['set_change_theme_status',['../class_source_1_1_model_1_1monitor_1_1_monitor_scale.html#aaa4ab4bca74bef30f55209bd3c5524f4',1,'Source::Model::monitor::MonitorScale']]],
-  ['set_5fdialog_5fstyle_5',['set_dialog_style',['../class_source_1_1_model_1_1monitor_1_1_monitor_scale.html#aa9c27e4a808dd6ca45fd79dd824a5d40',1,'Source::Model::monitor::MonitorScale']]],
-  ['set_5fheader_6',['set_header',['../class_source_1_1_worker_1_1printer_1_1_printer.html#ac038e17d636c2501fa9116ec12379187',1,'Source::Worker::printer::Printer']]],
-  ['set_5flast_5fpath_7',['set_last_path',['../class_source_1_1_model_1_1model_1_1_model.html#a2203bcfbffc0826776bec07edd7c88d3',1,'Source::Model::model::Model']]],
-  ['set_5fmain_5fwindow_5fcontroller_8',['set_main_window_controller',['../class_source_1_1_util_1_1bonprinter__err__handler_1_1_uncaught_hook.html#a42f56d2a8c0c22bde5def192882d94d0',1,'Source::Util::bonprinter_err_handler::UncaughtHook']]],
-  ['set_5fstatus_9',['set_status',['../class_source_1_1_controller_1_1main__window_1_1_main_window.html#aabbbc03c04980316f0439ab4f3f27979',1,'Source::Controller::main_window::MainWindow']]],
-  ['set_5fui_10',['set_ui',['../class_source_1_1_controller_1_1main__window_1_1_main_window.html#a363da6727c345c5e5b5a4d3c6fb6fbbc',1,'Source::Controller::main_window::MainWindow']]],
-  ['set_5fumlauts_11',['set_umlauts',['../class_source_1_1_worker_1_1printer_1_1_printer.html#a381eb6831f65a9105733ad472f139b6c',1,'Source::Worker::printer::Printer']]],
-  ['setupui_12',['setupUi',['../classdialog__about__ui_1_1_ui___about_dialog.html#aeac3f369ecedd34cba928ff6d01e0571',1,'dialog_about_ui.Ui_AboutDialog.setupUi()'],['../classdialog__help__ui_1_1_ui___help_dialog.html#ad2ae825dd824cc6fbc6f80b5aa855af0',1,'dialog_help_ui.Ui_HelpDialog.setupUi()'],['../classdialog__report__ui_1_1_ui___report_dialog.html#ade79ba5b9a8e6cf2f89633b0404e4aa3',1,'dialog_report_ui.Ui_ReportDialog.setupUi()'],['../classdialog__report__ui__tk_1_1_ui___report_dialog.html#ade79ba5b9a8e6cf2f89633b0404e4aa3',1,'dialog_report_ui_tk.Ui_ReportDialog.setupUi()'],['../classdialog__splash__ui_1_1_ui___splash_screen.html#abb7eae3793bf0f1d9a2295cc04a23844',1,'dialog_splash_ui.Ui_SplashScreen.setupUi()'],['../classmainwindow__ui_1_1_ui___main_window.html#a6ce90263b74f208efdbb53186bc8178a',1,'mainwindow_ui.Ui_MainWindow.setupUi()']]],
-  ['show_5fabout_5fdialog_13',['show_about_dialog',['../namespace_source_1_1_controller_1_1about__dialog.html#ab3fe6a3ab49fcf6b857ccf8a50e716c5',1,'Source::Controller::about_dialog']]],
-  ['show_5fexception_5fbox_14',['show_exception_box',['../class_source_1_1_util_1_1bonprinter__err__handler_1_1_uncaught_hook.html#a33f73b356ab1edf3a19751f6b9bc71e3',1,'Source::Util::bonprinter_err_handler::UncaughtHook']]],
-  ['show_5fhelp_5fdialog_15',['show_help_dialog',['../class_source_1_1_controller_1_1main__window_1_1_main_window.html#a2c3e02ffbecb706b451161cb5d169bfc',1,'Source::Controller::main_window::MainWindow']]],
-  ['show_5fitem_5fbtns_16',['show_item_btns',['../class_source_1_1_controller_1_1main__window_1_1_main_window.html#a53453a9e934e2b8097624ab353d00045',1,'Source::Controller::main_window::MainWindow']]],
-  ['show_5flogin_5fbtns_17',['show_login_btns',['../class_source_1_1_controller_1_1main__window_1_1_main_window.html#a7fc4e4a0e21ddc0710df4e7df14b30b1',1,'Source::Controller::main_window::MainWindow']]],
-  ['show_5fnumber_5fbtns_18',['show_number_btns',['../class_source_1_1_controller_1_1main__window_1_1_main_window.html#ab3102ff9223556b4db7b2b41b92cfe49',1,'Source::Controller::main_window::MainWindow']]],
-  ['show_5freport_5fdialog_19',['show_report_dialog',['../namespace_source_1_1_controller_1_1report__dialog.html#a44bbcb0154408dc65be0c5ce2dfb0ab6',1,'Source::Controller::report_dialog']]],
-  ['show_5funauthenticated_5fdialog_20',['show_unauthenticated_dialog',['../class_source_1_1_controller_1_1main__window_1_1_main_window.html#a98f43ccecd2068b7cfa829c773129a73',1,'Source::Controller::main_window::MainWindow']]],
-  ['show_5fupdate_5fdialog_21',['show_update_dialog',['../class_source_1_1_controller_1_1main__window_1_1_main_window.html#a99806d5fd39e11bfee316bc55063992b',1,'Source::Controller::main_window::MainWindow']]],
-  ['show_5fwelcome_5fdialog_22',['show_welcome_dialog',['../class_source_1_1_controller_1_1main__window_1_1_main_window.html#a8b5eddb39fc312836909c976ad3acbaf',1,'Source::Controller::main_window::MainWindow']]],
-  ['smartcard_5fread_23',['smartcard_read',['../class_source_1_1_controller_1_1main__window_1_1_main_window.html#a3ba8901d658d07326f36f190ec45e664',1,'Source::Controller::main_window::MainWindow']]],
-  ['sort_5fdict_24',['sort_dict',['../namespace_source_1_1_model_1_1config.html#a1686595b12e8fd46c2d1099725740bbe',1,'Source::Model::config']]],
-  ['start_5fapplication_25',['start_application',['../namespace_source_1_1bonprinter.html#acef0ce805b2573ee5531734b9a75fcaa',1,'Source::bonprinter']]],
-  ['start_5ftimer_26',['start_timer',['../class_source_1_1_model_1_1authentication_1_1_authentication.html#a2159b7ea50262cb3cb538e8887697ade',1,'Source::Model::authentication::Authentication']]],
-  ['stop_5ftimer_27',['stop_timer',['../class_source_1_1_model_1_1authentication_1_1_authentication.html#a21a47f0e354975a1271f041c57e7d49a',1,'Source::Model::authentication::Authentication']]],
-  ['store_5fuser_5fdata_28',['store_user_data',['../class_source_1_1_model_1_1config_1_1_config.html#ad22073c438d197a4ce4913fe1292aba5',1,'Source::Model::config::Config']]]
+  ['print_5fselected_5farticles_0',['print_selected_articles',['../class_source_1_1_controller_1_1main__window_1_1_main_window.html#ad3a91ca412e0c53f00261a7af5e6ae4b',1,'Source::Controller::main_window::MainWindow']]]
 ];

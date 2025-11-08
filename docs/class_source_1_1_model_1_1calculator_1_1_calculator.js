@@ -1,9 +1,10 @@
 var class_source_1_1_model_1_1calculator_1_1_calculator =
 [
-    [ "__init__", "class_source_1_1_model_1_1calculator_1_1_calculator.html#abdd362d5f799ad16b5d6700efe590290", null ],
-    [ "b_hold_last_print", "class_source_1_1_model_1_1calculator_1_1_calculator.html#a559af92ec09ca02980b0814b2b30f567", null ],
-    [ "f_back", "class_source_1_1_model_1_1calculator_1_1_calculator.html#acf215979c62cf6db58048a069c5b060c", null ],
-    [ "f_total", "class_source_1_1_model_1_1calculator_1_1_calculator.html#a4b6347ee2bfc8c169a6794ad083896f3", null ],
-    [ "i_multi", "class_source_1_1_model_1_1calculator_1_1_calculator.html#ae1097dd5f4927e37e7c49a859892441d", null ],
-    [ "s_text_total", "class_source_1_1_model_1_1calculator_1_1_calculator.html#a9b57aa41b183fdb9ba4b7611a64851a1", null ]
+    [ "__init__", "class_source_1_1_model_1_1calculator_1_1_calculator.html#abc1b785959b47505de72feabab160402", null ],
+    [ "b_hold_last_print", "class_source_1_1_model_1_1calculator_1_1_calculator.html#a3ef1bec4296ca69e3c6aa6ab3d61dc17", null ],
+    [ "f_back", "class_source_1_1_model_1_1calculator_1_1_calculator.html#aa1bc9813c9e63861bc4537f498523087", null ],
+    [ "f_payed", "class_source_1_1_model_1_1calculator_1_1_calculator.html#a9978ec5aca3ce9d7860eef7298a6ecb5", null ],
+    [ "f_total", "class_source_1_1_model_1_1calculator_1_1_calculator.html#a967a60d42d2988ebec9229216de283b8", null ],
+    [ "i_multi", "class_source_1_1_model_1_1calculator_1_1_calculator.html#ae5c41f126db2a9de9dd3a0c15c8d4739", null ],
+    [ "s_text_total", "class_source_1_1_model_1_1calculator_1_1_calculator.html#a7d09ccf47c290ba202fe7e5b76a266dc", null ]
 ];

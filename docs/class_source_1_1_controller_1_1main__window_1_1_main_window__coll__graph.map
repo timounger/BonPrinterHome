@@ -1,7 +1,0 @@
-<map id="MainWindow" name="MainWindow">
-<area shape="rect" id="Node000001" title="The view&#45;controller for main window." alt="" coords="50,123,205,656"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,116,75"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="73,89,79,122,74,123,67,90"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="141,5,250,75"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="189,90,182,123,177,122,183,89"/>
-</map>

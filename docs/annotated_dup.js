@@ -3,14 +3,14 @@ var annotated_dup =
     [ "dialog_about_ui", "namespacedialog__about__ui.html", [
       [ "Ui_AboutDialog", "classdialog__about__ui_1_1_ui___about_dialog.html", "classdialog__about__ui_1_1_ui___about_dialog" ]
     ] ],
+    [ "dialog_article_size_ui", "namespacedialog__article__size__ui.html", [
+      [ "Ui_ArticleSizeDialog", "classdialog__article__size__ui_1_1_ui___article_size_dialog.html", "classdialog__article__size__ui_1_1_ui___article_size_dialog" ]
+    ] ],
     [ "dialog_help_ui", "namespacedialog__help__ui.html", [
       [ "Ui_HelpDialog", "classdialog__help__ui_1_1_ui___help_dialog.html", "classdialog__help__ui_1_1_ui___help_dialog" ]
     ] ],
     [ "dialog_report_ui", "namespacedialog__report__ui.html", [
       [ "Ui_ReportDialog", "classdialog__report__ui_1_1_ui___report_dialog.html", "classdialog__report__ui_1_1_ui___report_dialog" ]
-    ] ],
-    [ "dialog_report_ui_tk", "namespacedialog__report__ui__tk.html", [
-      [ "Ui_ReportDialog", "classdialog__report__ui__tk_1_1_ui___report_dialog.html", "classdialog__report__ui__tk_1_1_ui___report_dialog" ]
     ] ],
     [ "dialog_splash_ui", "namespacedialog__splash__ui.html", [
       [ "Ui_SplashScreen", "classdialog__splash__ui_1_1_ui___splash_screen.html", "classdialog__splash__ui_1_1_ui___splash_screen" ]
@@ -45,11 +45,9 @@ var annotated_dup =
         [ "monitor", "namespace_source_1_1_model_1_1monitor.html", [
           [ "MonitorScale", "class_source_1_1_model_1_1monitor_1_1_monitor_scale.html", "class_source_1_1_model_1_1monitor_1_1_monitor_scale" ]
         ] ],
-        [ "pdf_import", "namespace_source_1_1_model_1_1pdf__import.html", [
-          [ "ImportItem", "class_source_1_1_model_1_1pdf__import_1_1_import_item.html", null ]
-        ] ],
         [ "report", "namespace_source_1_1_model_1_1report.html", [
           [ "Item", "class_source_1_1_model_1_1report_1_1_item.html", null ],
+          [ "ItemReport", "class_source_1_1_model_1_1report_1_1_item_report.html", null ],
           [ "Report", "class_source_1_1_model_1_1report_1_1_report.html", "class_source_1_1_model_1_1report_1_1_report" ]
         ] ],
         [ "sound", "namespace_source_1_1_model_1_1sound.html", [
@@ -57,17 +55,24 @@ var annotated_dup =
         ] ]
       ] ],
       [ "Util", "namespace_source_1_1_util.html", [
-        [ "bonprinter_data", "namespace_source_1_1_util_1_1bonprinter__data.html", [
-          [ "ELanguages", "class_source_1_1_util_1_1bonprinter__data_1_1_e_languages.html", null ],
-          [ "EPaper", "class_source_1_1_util_1_1bonprinter__data_1_1_e_paper.html", null ],
-          [ "ETheme", "class_source_1_1_util_1_1bonprinter__data_1_1_e_theme.html", null ],
-          [ "EUser", "class_source_1_1_util_1_1bonprinter__data_1_1_e_user.html", null ]
+        [ "app_data", "namespace_source_1_1_util_1_1app__data.html", [
+          [ "ELanguages", "class_source_1_1_util_1_1app__data_1_1_e_languages.html", null ],
+          [ "EPaper", "class_source_1_1_util_1_1app__data_1_1_e_paper.html", null ],
+          [ "ETheme", "class_source_1_1_util_1_1app__data_1_1_e_theme.html", null ],
+          [ "EUser", "class_source_1_1_util_1_1app__data_1_1_e_user.html", null ],
+          [ "ItemNumber", "class_source_1_1_util_1_1app__data_1_1_item_number.html", null ]
         ] ],
-        [ "bonprinter_err_handler", "namespace_source_1_1_util_1_1bonprinter__err__handler.html", [
-          [ "UncaughtHook", "class_source_1_1_util_1_1bonprinter__err__handler_1_1_uncaught_hook.html", "class_source_1_1_util_1_1bonprinter__err__handler_1_1_uncaught_hook" ]
+        [ "app_err_handler", "namespace_source_1_1_util_1_1app__err__handler.html", [
+          [ "UncaughtHook", "class_source_1_1_util_1_1app__err__handler_1_1_uncaught_hook.html", "class_source_1_1_util_1_1app__err__handler_1_1_uncaught_hook" ]
         ] ],
-        [ "bonprinter_log", "namespace_source_1_1_util_1_1bonprinter__log.html", [
-          [ "LogConfig", "class_source_1_1_util_1_1bonprinter__log_1_1_log_config.html", "class_source_1_1_util_1_1bonprinter__log_1_1_log_config" ]
+        [ "app_log", "namespace_source_1_1_util_1_1app__log.html", [
+          [ "LogConfig", "class_source_1_1_util_1_1app__log_1_1_log_config.html", "class_source_1_1_util_1_1app__log_1_1_log_config" ]
+        ] ],
+        [ "colored_log", "namespace_source_1_1_util_1_1colored__log.html", [
+          [ "ColorFormatter", "class_source_1_1_util_1_1colored__log_1_1_color_formatter.html", "class_source_1_1_util_1_1colored__log_1_1_color_formatter" ]
+        ] ],
+        [ "openpyxl_util", "namespace_source_1_1_util_1_1openpyxl__util.html", [
+          [ "XLSCreator", "class_source_1_1_util_1_1openpyxl__util_1_1_x_l_s_creator.html", "class_source_1_1_util_1_1openpyxl__util_1_1_x_l_s_creator" ]
         ] ]
       ] ],
       [ "Worker", "namespace_source_1_1_worker.html", [

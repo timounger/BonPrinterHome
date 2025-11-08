@@ -1,7 +1,8 @@
 var searchData=
 [
-  ['bonprinter_2epy_0',['bonprinter.py',['../bonprinter_8py.html',1,'']]],
-  ['bonprinter_5fdata_2epy_1',['bonprinter_data.py',['../bonprinter__data_8py.html',1,'']]],
-  ['bonprinter_5ferr_5fhandler_2epy_2',['bonprinter_err_handler.py',['../bonprinter__err__handler_8py.html',1,'']]],
-  ['bonprinter_5flog_2epy_3',['bonprinter_log.py',['../bonprinter__log_8py.html',1,'']]]
+  ['calculator_2epy_0',['calculator.py',['../calculator_8py.html',1,'']]],
+  ['changelog_2emd_1',['CHANGELOG.md',['../_c_h_a_n_g_e_l_o_g_8md.html',1,'']]],
+  ['colored_5flog_2epy_2',['colored_log.py',['../colored__log_8py.html',1,'']]],
+  ['config_2epy_3',['config.py',['../config_8py.html',1,'']]],
+  ['controller_2f_5f_5finit_5f_5f_2epy_4',['__init__.py',['../_controller_2____init_____8py.html',1,'']]]
 ];

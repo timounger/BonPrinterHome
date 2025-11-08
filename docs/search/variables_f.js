@@ -9,9 +9,12 @@ var searchData=
   ['report_6',['REPORT',['../class_source_1_1_worker_1_1open__notepad_1_1_e_notepad_selection.html#af0a871e6ac470649324af69ddf1566c5',1,'Source::Worker::open_notepad::ENotepadSelection']]],
   ['report_5fdialog_7',['REPORT_DIALOG',['../namespace_source_1_1_util_1_1gui__toolkit.html#a6eb075ffce3fa2cc2742a206ebd18292',1,'Source::Util::gui_toolkit']]],
   ['report_5ffile_5ftypes_8',['REPORT_FILE_TYPES',['../namespace_source_1_1_controller_1_1main__window.html#aaa9ff0387439d52444a2c03d457490d4',1,'Source::Controller::main_window']]],
-  ['report_5fqueue_9',['report_queue',['../class_source_1_1_worker_1_1printer_1_1_printer.html#aa39b6252df6981d26796c727476660ad',1,'Source::Worker::printer::Printer']]],
+  ['report_5fqueue_9',['report_queue',['../class_source_1_1_worker_1_1printer_1_1_printer.html#a8ce45af23a356d8a4d0ccc071d0a9d5f',1,'Source::Worker::printer::Printer']]],
   ['reset_10',['RESET',['../class_source_1_1_controller_1_1main__window_1_1_e_config_selection.html#af0ffac9a0da2d730884f659c27cf2c22',1,'Source::Controller::main_window::EConfigSelection']]],
-  ['reset_5fcode_11',['RESET_CODE',['../namespace_source_1_1_util_1_1bonprinter__data.html#a08c4aeab5ea03b059bab3c17d07510b3',1,'Source::Util::bonprinter_data']]],
-  ['reset_5fconfig_12',['reset_config',['../class_source_1_1_controller_1_1main__window_1_1_main_window.html#a95c5ec26c5ad4ef0a629e83afaac2a10',1,'Source::Controller::main_window::MainWindow']]],
-  ['resized_13',['resized',['../class_source_1_1_controller_1_1main__window_1_1_main_window.html#a6f28866158499a2e2b1410d6e753e258',1,'Source::Controller::main_window::MainWindow']]]
+  ['reset_11',['reset',['../class_source_1_1_util_1_1colored__log_1_1_color_formatter.html#ab56c88d10147a8c899262e4ead4a9fa3',1,'Source::Util::colored_log::ColorFormatter']]],
+  ['reset_5fcode_12',['RESET_CODE',['../namespace_source_1_1_util_1_1app__data.html#a08c4aeab5ea03b059bab3c17d07510b3',1,'Source::Util::app_data']]],
+  ['reset_5fconfig_13',['reset_config',['../class_source_1_1_controller_1_1main__window_1_1_main_window.html#a95c5ec26c5ad4ef0a629e83afaac2a10',1,'Source::Controller::main_window::MainWindow']]],
+  ['resize_5fevent_14',['RESIZE_EVENT',['../namespace_source_1_1_util_1_1gui__toolkit.html#aeb1f63219633e8cc223fb5a877f4c5f6',1,'Source::Util::gui_toolkit']]],
+  ['resized_15',['resized',['../class_source_1_1_controller_1_1main__window_1_1_main_window.html#a6f28866158499a2e2b1410d6e753e258',1,'Source::Controller::main_window::MainWindow']]],
+  ['root_5flogger_16',['root_logger',['../class_source_1_1_util_1_1app__log_1_1_log_config.html#af2fe9aec0484a8d331ffcbc182d64af3',1,'Source::Util::app_log::LogConfig']]]
 ];

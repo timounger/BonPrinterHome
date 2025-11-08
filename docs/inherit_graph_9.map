@@ -1,7 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="Node000000" title=" " alt="" coords="5,31,99,57"/>
-<area shape="rect" id="Node000001" href="$class_source_1_1_model_1_1pdf__import_1_1_import_item.html" title="properties of item to import" alt="" coords="147,5,229,32"/>
-<area shape="poly" id="edge19_Node000000_Node000001" title=" " alt="" coords="113,30,146,24,147,29,114,35"/>
-<area shape="rect" id="Node000002" href="$class_source_1_1_model_1_1report_1_1_item.html" title="properties of printed article" alt="" coords="165,56,211,83"/>
-<area shape="poly" id="edge20_Node000000_Node000002" title=" " alt="" coords="114,53,165,62,164,68,113,58"/>
-</map>

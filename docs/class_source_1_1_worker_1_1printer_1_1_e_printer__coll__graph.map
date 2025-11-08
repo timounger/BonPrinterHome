@@ -1,7 +1,0 @@
-<map id="EPrinter" name="EPrinter">
-<area shape="rect" id="Node000001" title="Supported printers." alt="" coords="9,123,91,235"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,33,75"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="33,89,40,122,35,123,28,90"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="57,5,104,75"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="72,90,65,123,60,122,67,89"/>
-</map>

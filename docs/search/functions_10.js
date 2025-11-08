@@ -1,21 +1,4 @@
 var searchData=
 [
-  ['webserver_5fkey_0',['webserver_key',['../class_source_1_1_controller_1_1main__window_1_1_main_window.html#ad1f5922f2ef8beba37856dea2dd73347',1,'Source::Controller::main_window::MainWindow']]],
-  ['write_5farticles_5fsettings_1',['write_articles_settings',['../namespace_source_1_1_util_1_1bonprinter__data.html#a7fce8285229475d2401a6718431fff66',1,'Source::Util::bonprinter_data']]],
-  ['write_5fcom_5fport_5fsettings_2',['write_com_port_settings',['../namespace_source_1_1_util_1_1bonprinter__data.html#a3587b1e1998fb255615aa492e4c49212',1,'Source::Util::bonprinter_data']]],
-  ['write_5fconfig_5fto_5ffile_3',['write_config_to_file',['../namespace_source_1_1_model_1_1config.html#a5a1e92257faccb69af25d0ca5376f56b',1,'Source::Model::config']]],
-  ['write_5fdata_5fto_5ffile_4',['write_data_to_file',['../class_source_1_1_model_1_1report_1_1_report.html#a4533652e05fed8104ed0c0b72b67e2d8',1,'Source::Model::report::Report']]],
-  ['write_5fdata_5fto_5fprint_5ffile_5',['write_data_to_print_file',['../class_source_1_1_model_1_1report_1_1_report.html#a3933d1b8d4b153c37739c758d2b629e9',1,'Source::Model::report::Report']]],
-  ['write_5flanguage_6',['write_language',['../namespace_source_1_1_util_1_1bonprinter__data.html#a9b85b8df0aa0ef438fa2e1b12a369084',1,'Source::Util::bonprinter_data']]],
-  ['write_5flast_5fdir_7',['write_last_dir',['../namespace_source_1_1_util_1_1bonprinter__data.html#a2d0e8508fa775f3d64616642e4b7b1e0',1,'Source::Util::bonprinter_data']]],
-  ['write_5foutput_5fpath_5fsettings_8',['write_output_path_settings',['../namespace_source_1_1_util_1_1bonprinter__data.html#ad50ca8e295a7d4603a5410d9175af790',1,'Source::Util::bonprinter_data']]],
-  ['write_5fpaper_5fwidth_5fsettings_9',['write_paper_width_settings',['../namespace_source_1_1_util_1_1bonprinter__data.html#af23560450a78d8fd52a83179a9cce402',1,'Source::Util::bonprinter_data']]],
-  ['write_5freader_5fsettings_10',['write_reader_settings',['../namespace_source_1_1_util_1_1bonprinter__data.html#a6e29e20fa5555416da7ec76d01655d11',1,'Source::Util::bonprinter_data']]],
-  ['write_5fsales_11',['write_sales',['../namespace_source_1_1_util_1_1bonprinter__data.html#a191c3cfd0c3eb6501aafd0ad427536d7',1,'Source::Util::bonprinter_data']]],
-  ['write_5fsound_5fsettings_12',['write_sound_settings',['../namespace_source_1_1_util_1_1bonprinter__data.html#a17118b5284a0b424318894b3bfcb8d06',1,'Source::Util::bonprinter_data']]],
-  ['write_5ftheme_5fsettings_13',['write_theme_settings',['../namespace_source_1_1_util_1_1bonprinter__data.html#aff72315fe1249ba0d730510aa3705821',1,'Source::Util::bonprinter_data']]],
-  ['write_5fupdate_5fversion_14',['write_update_version',['../namespace_source_1_1_util_1_1bonprinter__data.html#aa514aea9872eb6c5e7f14e7468aee9e1',1,'Source::Util::bonprinter_data']]],
-  ['write_5fuser_5fsettings_15',['write_user_settings',['../namespace_source_1_1_util_1_1bonprinter__data.html#a471ca459e618669e79803fc7c6622459',1,'Source::Util::bonprinter_data']]],
-  ['write_5fverbosity_5fsettings_16',['write_verbosity_settings',['../namespace_source_1_1_util_1_1bonprinter__data.html#ab08dc6a73a8ef83fafddcab98f392327',1,'Source::Util::bonprinter_data']]],
-  ['write_5fwebserver_5fstatus_17',['write_webserver_status',['../namespace_source_1_1_util_1_1bonprinter__data.html#abd9be46f2de104be7310a648946365dc',1,'Source::Util::bonprinter_data']]]
+  ['thread_5floop_0',['thread_loop',['../namespace_source_1_1_util_1_1app__data.html#ac4124d5071009845d6e81e75713368c6',1,'Source::Util::app_data']]]
 ];
